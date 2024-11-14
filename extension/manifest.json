@@ -6,7 +6,7 @@
   "permissions": ["activeTab"],
   "content_scripts": [
     {
-      "matches": ["https://*.claude.ai/*"],
+      "matches": ["https://*.aigc369.com/*"],
       "js": ["content.js"]
     }
   ]
